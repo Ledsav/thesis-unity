@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: 4e032a9454b7f4448b003d5eeea7442e
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 2505219182150019260
+    second: Rig|_a-pose
+  - first:
+      74: 1013672345099463266
+    second: Rig|_standard
+  - first:
+      74: 5069633032311000051
+    second: Rig|_t-pose
+  - first:
+      74: 5326739951677606047
+    second: Rig|new_man_fall
+  - first:
+      74: 4625736652979982144
+    second: Rig|new_man_idle
+  - first:
+      74: -899361660812745762
+    second: Rig|new_man_jump_in_place
+  - first:
+      74: 6682242678893688699
+    second: Rig|new_man_jump_up_root
+  - first:
+      74: -7928980626038031329
+    second: Rig|new_man_run_in_place
+  - first:
+      74: 6149246675337778323
+    second: Rig|new_man_run_root
+  - first:
+      74: -2206944424551302485
+    second: Rig|new_man_stride_left
+  - first:
+      74: 2679979468453916444
+    second: Rig|new_man_stride_right
+  - first:
+      74: 1070250974458314681
+    second: Rig|new_man_walk_in_place
+  - first:
+      74: 3737490626091657992
+    second: Rig|new_man_walk_left_in_place
+  - first:
+      74: 5671992159413305970
+    second: Rig|new_man_walk_left_root
+  - first:
+      74: 7964591924571164955
+    second: Rig|new_man_walk_right_in_place
+  - first:
+      74: -5804428375266831851
+    second: Rig|new_man_walk_right_root
+  - first:
+      74: -5535673724695675207
+    second: Rig|new_man_walk_root
+  - first:
+      74: 2304604416932318218
+    second: Rig|new_sit_idle
+  - first:
+      74: -863447081370604301
+    second: Rig|new_sit_to_stand
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
